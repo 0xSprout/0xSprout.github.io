@@ -1,1 +1,4 @@
-Future about me
+---
+layout: page
+title: Future about me
+---
