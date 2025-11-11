@@ -4,10 +4,11 @@ minima:
   show_excerpts: true
   skin: solarized-dark
   hide_site_feed_link: true
-    nav_pages:
-    - about.md
-    - portfolio.md
+  nav_pages:
+  - about.md
+  - portfolio.md
   
 author:
   name: Sprout Erso
   email: "0xSprout@github.com"
+
