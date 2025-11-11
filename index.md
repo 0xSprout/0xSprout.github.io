@@ -1,4 +1,4 @@
 ---
-layout: main
+layout: home
 title: Sprout's Ramblings
 ---
