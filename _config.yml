@@ -1,4 +1,5 @@
-theme: minima
-minima:
-  skin: dark
+remote_theme: jekyll/minima
 
+minima:
+  show_excerpts: true
+  skin: solarized-dark
