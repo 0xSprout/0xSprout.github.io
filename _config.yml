@@ -1,7 +1,6 @@
 remote_theme: jekyll/minima
 
 minima:
-  show_excerpts: true
   skin: solarized-dark
   hide_site_feed_link: true
   nav_pages:
@@ -11,4 +10,5 @@ minima:
 author:
   name: Sprout Erso
   email: "0xSprout@github.com"
+
 
